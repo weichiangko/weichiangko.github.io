@@ -971,9 +971,9 @@ section.padding-60 {
 }
 
 .shadow-blue {
-  -webkit-box-shadow: 0px 6px 15px 0px rgba(74, 99, 231, 0.1);
-  -moz-box-shadow: 0px 6px 15px 0px rgba(74, 99, 231, 0.1);
-  box-shadow: 0px 6px 15px 0px rgba(74, 99, 231, 0.1);
+  -webkit-box-shadow: 0px 6px 15px 0px rgba(75, 170, 190, 0.1);
+  -moz-box-shadow: 0px 6px 15px 0px rgba(75, 170, 190, 0.1);
+  box-shadow: 0px 6px 15px 0px rgba(75, 170, 190, 0.1);
 }
 
 .shadow-dark {
