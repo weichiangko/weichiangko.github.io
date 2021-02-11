@@ -24,7 +24,7 @@
 /*=================================================================*/
 body {
   color: #888;
-  background-color: #F6F7FF;
+  background-color: #F5F5F5;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   line-height: 1.7;
@@ -1104,7 +1104,7 @@ section.padding-60 {
 /*                     PRELOADER
 /*=================================================================*/
 #preloader {
-  background: #F6F7FF;
+  background: #F5F5F5;
   height: 100%;
   position: fixed;
   width: 100%;
